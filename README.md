@@ -1,4 +1,4 @@
-## Projeto Trybesmith!
+## Projeto Trybesmith! ⚔️
 
 ## Contexto do projeto:
 Foi desenvolvido uma loja de itens medievais, no formato de uma API, utilizando Typescript.
@@ -17,10 +17,10 @@ Para rodar a aplicação em sua maquina.
 2. Entre na pasta do repositório que você acabou de clonar:</br>
     `cd Trybesmith.git`
 
-3. Instale as dependências</br>
+3. Instale as dependências:</br>
 <code>npm install</code>
 
-4. Comando para executar o app</br>
+4. Comando para executar o app:</br>
 <code>npm start</code>
 
 ## Instalação com Docker:
