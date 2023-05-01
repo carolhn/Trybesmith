@@ -1,39 +1,28 @@
 ## Projeto Trybesmith!
 
-
 ## Contexto do projeto:
-Neste projeto realizado operações basicas em um banco de dados: Criação, Leitura, Atualização e Exclusão (ou CRUD, para as pessoas mais íntimas stuck_out_tongue_winking_eye - Create, Read, Update e Delete). Foi criado endpoints que irão ler e escrever em um banco de dados, utilizando o MySQL.
+Foi desenvolvido uma loja de itens medievais, no formato de uma API, utilizando Typescript.
+
+Neste projeto foi realizado operações basicas em um banco de dados: Criação, Leitura, Atualização e Exclusão (ou CRUD, Create, Read, Update e Delete). Foi criado endpoints que vão ler e escrever em um banco de dados, utilizando o MySQL.
 - Foi utilizado a linguagem TypeScript
-- Foi criado as camadas(Models, Service e Controllers)
+- Foi criado as camadas (Models, Service e Controllers)
 - Foi desenvoldido endpoinst (/products, /users, /orders e /login)
 <br>
 
-<details>
-  <summary><strong>👨‍💻 O que foi desenvolvido: </strong></summary><br />
+## Instalação Local:
+Para rodar a aplicação em sua maquina.
 
-  Foi desenvolvido uma loja de itens medievais, no formato de uma API, utilizando Typescript.
+1. Clone o repositorio. Use o comando:</br>
+  <code>`git clone git@github.com:carolhn/Trybesmith.git`</code></br>
 
-</details>
+2. Entre na pasta do repositório que você acabou de clonar:</br>
+    `cd Trybesmith.git`
 
-<br>
+3. Instale as dependências</br>
+<code>npm install</code>
 
-<details>
-  <summary><strong>‼️ Desenvolvimento: </strong></summary><br />
-
-  1. Clone o repositório
-
-  - Use o comando: `git clone git@github.com:carolhn/Trybesmith.git`.
-  - Entre na pasta do repositório que você acabou de clonar:
-    - `cd Trybesmith.git`
-
-  2. Instale as dependências e inicialize o projeto
-
-  - Instale as dependências:
-    - `npm install`
-  - Inicialize o projeto:
-    - `npm start`
- </details>
-
+4. Comando para executar o app</br>
+<code>npm start</code>
 
 
 ## Contato:
